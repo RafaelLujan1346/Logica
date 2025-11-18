@@ -15,6 +15,8 @@ jefe(sheryl_sandberg,lori_goler).
 jefe(elliot_schrage,rebecca_van_dyck).
 jefe(elliot_schrage,heather_freeland).
 
+
+
 %jefe de rebeca?  -jefe(X,rebecca_van_dyck).
 % es mark jefe del jefe de rebecca? -jefe(mark_zuckerberg,X),jefe(X,rebecca_van_dyck).
 % Lori jefe de alguien? - jefe(lori_goler,X).
